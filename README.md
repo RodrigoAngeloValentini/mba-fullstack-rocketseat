@@ -1,4 +1,4 @@
-![image](https://github.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/assets/62787018/ad282ab6-64f1-4099-9490-90a8b4c2a3f6)
+![image](https://raw.githubusercontent.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/refs/heads/main/assets/topo.png)
 
 # MBA em Fullstack - Rocketseat + Sirius 🚀
 

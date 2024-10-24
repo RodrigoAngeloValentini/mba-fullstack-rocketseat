@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte do curso MBA Fullstack da Rocketseat, com o objetivo de proporcionar aos alunos uma experiência prática na construção de uma plataforma de agendamento utilizando JavaScript.
 
-![Thumbnail](https://github.com/user-attachments/assets/740d6ddd-69ff-4acf-8ed9-fec59fe2d5e3)
+![Thumbnail](https://raw.githubusercontent.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/refs/heads/main/assets/01-fundamentos/fundamentos-09.png)
 
 ## 🚀 Visão Geral
 
@@ -31,8 +31,3 @@ Desenvolvedor Full Stack com paixão por tecnologias emergentes e inovação.
 
 - [GitHub](https://github.com/RodrigoAngeloValentini) - Explore meus projetos e colaborações.
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-angelo-valentini-b8591058/) - Conecte-se comigo e acompanhe minha trajetória profissional.
-
-
----
-
-Espero que isso atenda às suas necessidades! Se precisar de mais alguma alteração ou tiver mais detalhes para adicionar, fique à vontade para avisar.

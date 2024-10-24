@@ -1,8 +1,8 @@
 # Animated Landing Page | Landing Page animada
 
-[FIGMA](https://www.figma.com/design/o7aKkv2B1fsxp2FimC9ObE/LP-de-patins-animada-(Community)?t=uufKEyNQUJRaWBlg-0) 
+[FIGMA](https://www.figma.com/design/o7aKkv2B1fsxp2FimC9ObE/LP-de-patins-animada-(Community)?t=uufKEyNQUJRaWBlg-0)
 
-![Thumbnail (1)](https://github.com/user-attachments/assets/fa7fb737-eff4-4b35-b15b-cf27da70964a)
+![Thumbnail](https://raw.githubusercontent.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/refs/heads/main/assets/01-fundamentos/fundamentos-06.png)
 
 ## 🚀 Visão Geral
 
@@ -28,4 +28,3 @@ Desenvolvedor Full Stack com paixão por tecnologias emergentes e inovação.
 
 - [GitHub](https://github.com/RodrigoAngeloValentini) - Explore meus projetos e colaborações.
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-angelo-valentini-b8591058/) - Conecte-se comigo e acompanhe minha trajetória profissional.
-

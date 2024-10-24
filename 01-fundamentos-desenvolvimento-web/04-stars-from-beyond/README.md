@@ -2,9 +2,9 @@
 
 Este projeto foi desenvolvido como parte do curso MBA Fullstack da Rocketseat, com o objetivo de proporcionar aos alunos uma experiência prática na construção de páginas web do zero utilizando HTML e CSS. O projeto foca na construção de uma página de mátricula de uma escola, onde o foco é criar diversos tipos de inputs.
 
-[FIGMA](https://www.figma.com/design/tESYtnDe4bdFeFpjVRzE3f/Formul%C3%A1rio-de-matr%C3%ADcula-(Community)?node-id=3-811&t=s8Sdvsnhd4c3uMeE-0) 
+[FIGMA](https://www.figma.com/design/tESYtnDe4bdFeFpjVRzE3f/Formul%C3%A1rio-de-matr%C3%ADcula-(Community)?node-id=3-811&t=s8Sdvsnhd4c3uMeE-0)
 
-![Thumbnail (3)](https://github.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/assets/62787018/7bf14b0f-ce33-4bbb-80d7-8187c115aa7f)
+![Thumbnail](https://raw.githubusercontent.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/refs/heads/main/assets/01-fundamentos/fundamentos-04.png)
 
 ## 🚀 Visão Geral
 

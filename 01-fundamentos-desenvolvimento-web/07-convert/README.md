@@ -2,7 +2,7 @@
 
 Uma plataforma onde os usuários podem selecionar a moeda que queiram converter e digitar o valor em real.
 
-![image](https://github.com/user-attachments/assets/eefc2290-6362-4fb0-8765-80a9e4aa51d9)
+![image](https://raw.githubusercontent.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/refs/heads/main/assets/01-fundamentos/fundamentos-07.png)
 
 ## 🚀 Visão Geral
 

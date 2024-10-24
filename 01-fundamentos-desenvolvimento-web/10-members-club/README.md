@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte do curso MBA Fullstack da Rocketseat, com o objetivo de proporcionar aos alunos uma experiência prática na construção de uma plataforma de fidelidade para uma empresa de cortes de cabelo, onde o usuário ganha selos que ao completar o total estipulado ele ganha 1 corte grátis.
 
-![Thumbnail](https://github.com/user-attachments/assets/eea5df03-faa1-4e94-be6a-2c4dab6f8126)
+![Thumbnail](https://raw.githubusercontent.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/refs/heads/main/assets/01-fundamentos/fundamentos-10.png)
 
 ## 🚀 Visão Geral
 
@@ -30,7 +30,3 @@ Desenvolvedor Full Stack com paixão por tecnologias emergentes e inovação.
 
 - [GitHub](https://github.com/RodrigoAngeloValentini) - Explore meus projetos e colaborações.
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-angelo-valentini-b8591058/) - Conecte-se comigo e acompanhe minha trajetória profissional.
-
----
-
-Espero que isso atenda às suas necessidades! Se precisar de mais alguma alteração ou tiver mais detalhes para adicionar, fique à vontade para avisar.

@@ -4,7 +4,7 @@ Este projeto visa criar uma página dedicada ao perfil de um viajante na platafo
 
 [FIGMA](https://www.figma.com/community/file/1360315496868719817/perfil-de-viagens)
 
-![Thumbnail (1)](https://github.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/assets/62787018/9e09c46b-148a-4d68-8cae-718c2494a95d)
+![Thumbnail](https://raw.githubusercontent.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/refs/heads/main/assets/01-fundamentos/fundamentos-02.png)
 
 ## 🚀 Visão Geral
 

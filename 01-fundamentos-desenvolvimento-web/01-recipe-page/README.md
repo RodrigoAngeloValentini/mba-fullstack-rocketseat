@@ -4,7 +4,7 @@ Este é um projeto que visa criar uma página dedicada à apresentação de uma 
 
 [FIGMA](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita)
 
-![Thumbnail](https://github.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/assets/62787018/a1df463d-d718-4c38-8ff9-8bace2814a89)
+![Thumbnail](https://raw.githubusercontent.com/RodrigoAngeloValentini/mba-fullstack-rocketseat/refs/heads/main/assets/01-fundamentos/fundamentos-01.png)
 
 ## 🚀 Visão Geral
 

@@ -23,6 +23,9 @@
 - [**Ignite Shop**](https://github.com/RodrigoAngeloValentini/04-ignite-shop)  
   Description: e-commerce project using the Next.js framework. With TailwindCSS, Zod, and App Router, we will explore concepts such as React Server Components, Streaming SSR, Suspense API, Fetch, Cache, metadata, and testing.
 
+- [**Marketplace**](https://github.com/RodrigoAngeloValentini/mba-marketplace-frontend)  
+  Description: Final project.
+
 ---
 
 Feel free to explore these repositories, and don't hesitate to contribute or get in touch if you find something interesting! 😊
